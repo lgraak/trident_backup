@@ -1,6 +1,3 @@
-[include mmu/base/*.cfg]
-[include mmu/addons/mmu_erec_cutter.cfg]
-[include mmu/optional/client_macros.cfg]
 [include shell_command.cfg]
 # This file contains common pin mappings for the BigTreeTech Kraken.
 # To use this config, the firmware should be compiled for the STM32H723Z6 with a "128KiB bootloader"
